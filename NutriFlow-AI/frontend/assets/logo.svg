@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">NutriFlow AI logo</title>
+  <rect x="4" y="4" width="92" height="92" rx="30" fill="#193b32"/>
+  <path d="M50 76V39" fill="none" stroke="#dcebe0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M50 49C25 49 21 29 23 20c19-1 31 8 27 29Z" fill="#9cc8a5"/>
+  <path d="M50 58c1-22 16-33 31-31 0 18-9 31-31 31Z" fill="#eaa47e"/>
+  <path d="M50 76c-8-9-16-11-24-9" fill="none" stroke="#dcebe0" stroke-width="4" stroke-linecap="round"/>
+</svg>
